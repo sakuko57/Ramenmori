@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6099357725424749243}
   m_Layer: 0
   m_Name: Tenpura
-  m_TagString: Untagged
+  m_TagString: Udon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
