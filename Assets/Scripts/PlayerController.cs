@@ -31,13 +31,36 @@ public class PlayerController : MonoBehaviour
         }
        
     }
-
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(other.gameObject.tag == "Negi")
+        if (collision.gameObject.tag == "Negi")
         {
-            Debug.Log("Test");
-            Destroy(other.gameObject);
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "Menma")
+        {
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "Men")
+        {
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "Ajitama")
+        {
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "Chashu")
+        {
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "Udon")
+        {
+            Destroy(collision.gameObject);
         }
     }
 }
