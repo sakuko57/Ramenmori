@@ -613,3 +613,191 @@ Received Import Request.
 Start importing Assets/Scenes/Stage1.unity using Guid(f500646e8f71349c1b58788fca144a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f801ea3c584db0d849a3a4f3fe16c1') in 0.003996 seconds
   Import took 0.013274 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 106.717428 seconds.
+  path: Assets/Scenes/Start.unity
+  artifactKey: Guid(3bb7aa3b3db2c4d19b788f2060249fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Start.unity using Guid(3bb7aa3b3db2c4d19b788f2060249fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ddf41cd3b25a5c8cd2691ff95d8ed3a') in 0.009605 seconds
+  Import took 0.026140 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001465 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.866 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 393.4 MB.
+System memory in use after: 393.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2330.
+Total: 4.378914 ms (FindLiveObjects: 0.441282 ms CreateObjectMapping: 0.272877 ms MarkObjects: 3.479446 ms  DeleteObjects: 0.182863 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002552 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 395.3 MB.
+System memory in use after: 395.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2334.
+Total: 13.604693 ms (FindLiveObjects: 0.760064 ms CreateObjectMapping: 0.166245 ms MarkObjects: 12.363297 ms  DeleteObjects: 0.311562 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.960770 seconds.
+  path: Assets/Scripts/SceneManager.cs
+  artifactKey: Guid(212ba7d9849a9410aa928a4431106ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SceneManager.cs using Guid(212ba7d9849a9410aa928a4431106ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8299460211d21f5149060684faeeef0') in 0.060780 seconds
+  Import took 0.083960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.201225 seconds.
+  path: Assets/Scripts/SceneManager.cs
+  artifactKey: Guid(212ba7d9849a9410aa928a4431106ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SceneManager.cs using Guid(212ba7d9849a9410aa928a4431106ef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7f1ff52e55989361056596f48302c2') in 0.006338 seconds
+  Import took 0.014646 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.314 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 397.1 MB.
+System memory in use after: 397.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2338.
+Total: 3.837548 ms (FindLiveObjects: 0.518136 ms CreateObjectMapping: 0.190448 ms MarkObjects: 2.954060 ms  DeleteObjects: 0.172819 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003466 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.033 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 398.9 MB.
+System memory in use after: 398.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2342.
+Total: 3.812143 ms (FindLiveObjects: 0.453780 ms CreateObjectMapping: 0.137978 ms MarkObjects: 3.027554 ms  DeleteObjects: 0.190444 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 645.173201 seconds.
+  path: Assets/Images/Player_20230313022215.PNG
+  artifactKey: Guid(4a3183a3f697b462bb524bd43fee1f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Player_20230313022215.PNG using Guid(4a3183a3f697b462bb524bd43fee1f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f825ba9d82c17a012217119ba8fd8d') in 0.192256 seconds
+  Import took 0.203357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.111895 seconds.
+  path: Assets/Images/Player_20230313022215.PNG
+  artifactKey: Guid(4a3183a3f697b462bb524bd43fee1f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Player_20230313022215.PNG using Guid(4a3183a3f697b462bb524bd43fee1f93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07f825ba9d82c17a012217119ba8fd8d') in 0.028112 seconds
+  Import took 0.033420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.903461 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Paste@4x.png
+  artifactKey: Guid(5d4fa2fdecdadcb468baaedc792cc439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Paste@4x.png using Guid(5d4fa2fdecdadcb468baaedc792cc439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e42c03771a2a65733d883b07a9b1d2c') in 0.978063 seconds
+  Import took 0.986456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004176 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Paste@4x.png
+  artifactKey: Guid(f53eca637c0194e4ab6729cf60753757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Paste@4x.png using Guid(f53eca637c0194e4ab6729cf60753757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7114e80d1c55ae38eb03cd3d3c7921') in 0.046212 seconds
+  Import took 0.054420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001353 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@3x.png
+  artifactKey: Guid(29f90cd6202745c448e74a1398b1c731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@3x.png using Guid(29f90cd6202745c448e74a1398b1c731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8abcb910ac0927d35506d0bf97bb89') in 0.042224 seconds
+  Import took 0.051951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split Bones.png
+  artifactKey: Guid(59bc7a7ca0683ac439e255a533670885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split Bones.png using Guid(59bc7a7ca0683ac439e255a533670885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b880f67d079f20b6984b5f96c12643c') in 0.020323 seconds
+  Import took 0.033450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones.png
+  artifactKey: Guid(f723a6284838af1429bbb544ecf4015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones.png using Guid(f723a6284838af1429bbb544ecf4015d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d8ec9f657788a9780b9013dc45d952') in 0.017735 seconds
+  Import took 0.024467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@2x.png
+  artifactKey: Guid(652f381007a2d2247a40aa63c91c2565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Selected/Split Bones@2x.png using Guid(652f381007a2d2247a40aa63c91c2565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35cf45e7ccc1b7bf0afcdf3d3d234891') in 0.025755 seconds
+  Import took 0.040420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split Bones@2x.png
+  artifactKey: Guid(180eeff5b9e615349907ea53344202fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation/Editor/Assets/SkinningModule/Icons/Light/Split Bones@2x.png using Guid(180eeff5b9e615349907ea53344202fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a83f5ef5cc9ff04465618f123efb77') in 0.044674 seconds
+  Import took 0.059409 seconds .
+
