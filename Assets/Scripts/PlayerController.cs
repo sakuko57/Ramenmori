@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rb;
     bool isPressed = false;
     public ScoreCounter scoreCounter;
+    public static int Finalscore = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -33,7 +34,7 @@ public class PlayerController : MonoBehaviour
         }
        
     }
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Negi")
         {
@@ -74,8 +75,13 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.tag == "Finish")
         {
             SceneManager.LoadScene("Result");
+            //Finalscore = scoreCounter.score;
         }
-            
+        Finalscore = scoreCounter.score;
+    }
 
+    public static int GetScore()
+    {
+        return Finalscore;
     }
 }
